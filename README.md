@@ -7,11 +7,10 @@
 
 ---
 
+
 ## Objective
 
-To scrape product data (book titles, prices, and ratings) from a public website and convert it into a structured tabular format (CSV) for further analysis.
-
-This updated version includes web navigation by scraping multiple paginated pages (page 1 to 5) from the website, showcasing the ability to handle both HTML structure and page navigation.
+The objective of this task is to extract relevant product data from a public website using Python-based web scraping techniques. The project demonstrates the ability to navigate through multiple web pages (pagination), handle HTML structure effectively, and collect structured data (custom dataset) suitable for analysis. This task is completed using libraries such as BeautifulSoup, requests, and pandas.
 
 ---
 
