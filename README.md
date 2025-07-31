@@ -53,12 +53,7 @@ The data is saved in a file named `books_scraped.csv`.
 
 ---
 
-## How to Run
 
-1. Open the notebook in Google Colab or any Python environment.
-2. Install dependencies if required:
-3. Run the script. The CSV file will be generated.
-4. If using Colab, the file will be automatically downloaded to your device.
 
 
 ## Repository Contents
