@@ -61,13 +61,6 @@ The data is saved in a file named `books_scraped.csv`.
 3. Run the script. The CSV file will be generated.
 4. If using Colab, the file will be automatically downloaded to your device.
 
----
-
-## Video Explanation
-
-[LinkedIn Video Link Here] *(Replace with your actual LinkedIn post URL once published)*
-
----
 
 ## Repository Contents
 
